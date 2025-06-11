@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['five', 'four', 'one', 'three', 'two']
+
+roboflow:
+  workspace: lebanese-university-grkoz
+  project: hand-gesture-recognition-y5827
+  version: 6
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/lebanese-university-grkoz/hand-gesture-recognition-y5827/dataset/6
