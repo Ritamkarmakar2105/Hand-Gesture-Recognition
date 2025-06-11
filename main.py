@@ -6,7 +6,7 @@ import glob
 # Initialize Roboflow Inference Client
 CLIENT = InferenceHTTPClient(
     api_url="https://serverless.roboflow.com",
-    api_key="RAO3qcOxTrwgNcnSGrMD"
+    api_key="Your Roboflow API key"
 )
 
 # Configuration
